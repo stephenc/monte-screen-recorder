@@ -27,7 +27,7 @@
 
   <groupId>com.github.stephenc.monte</groupId>
   <artifactId>monte-screen-recorder</artifactId>
-  <version>0.7.7.0</version>
+  <version>0.7.7.1-SNAPSHOT</version>
 
   <name>Monte Screen Recorder</name>
   <description>
@@ -46,7 +46,7 @@
     <connection>scm:git:git://github.com/stephenc/monte-screen-recorder.git</connection>
     <developerConnection>scm:git:git@github.com:stephenc/monte-screen-recorder.git</developerConnection>
     <url>http://github.com/stephenc/monte-screen-recorder/tree/master/</url>
-    <tag>monte-screen-recorder-0.7.7.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
